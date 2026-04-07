@@ -1,0 +1,7 @@
+{
+  "name": "Copernicus",
+  "description": "A language translator useful for travelers like Copernicus",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
